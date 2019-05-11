@@ -16,7 +16,7 @@ $json = file_get_contents($json_url);
 
 <head>
     <meta charset="utf-8" />
-    <title>Albion App</title>
+    <title>Danger Boys</title>
 </head>
 
 <body>
